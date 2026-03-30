@@ -40,3 +40,4 @@ if __name__ == "__main__":
     import doctest
 
     doctest.testmod()
+print(ohms_law(voltage=10, current=0, resistance=5))
